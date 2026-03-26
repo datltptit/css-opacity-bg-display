@@ -5,7 +5,13 @@ body{
 h2{
     /* độ trong suốt */
     opacity: 100%; 
+    /* background màu gì */
     background-color: blueviolet;
+    /* ẩn phần tử khỏi giao diện,xóa không gian nó đang chiếm */
+    display: none;
+    /* visibility:ẩn hoặc hiện element */
+    visibility: hidden;
+
 }
 img{
     opacity: 50%;
