@@ -1,0 +1,12 @@
+body{
+    background-image: url(./img/bg.img.jpg);
+    color: aliceblue;
+}
+h2{
+    /* độ trong suốt */
+    opacity: 100%; 
+    background-color: blueviolet;
+}
+img{
+    opacity: 50%;
+}
